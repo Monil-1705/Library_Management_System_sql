@@ -1,4 +1,4 @@
-# Library Management System using SQL Project --P2
+# Library Management System using SQL
 
 ## Project Overview
 
@@ -650,3 +650,4 @@ This project demonstrates the application of SQL skills in creating and managing
 4. **Explore and Modify**: Customize the queries as needed to explore different aspects of the data or answer additional questions.
 
 **THANK YOU :)**
+
